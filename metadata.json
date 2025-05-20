@@ -1,0 +1,16 @@
+{
+  "name": "TRTIO",
+  "symbol": "TIO",
+  "description": "go home",
+  "image": "https://raw.githubusercontent.com/zhuxiayiguan/tianru-sol-cs/main/zhuzhuxia.png",
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/zhuxiayiguan/tianru-sol-cs/main/zhuzhuxia.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  }
+}
